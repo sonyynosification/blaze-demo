@@ -1,0 +1,26 @@
+INSERT INTO usr VALUES ('1', 'bob@example.com');
+INSERT INTO usr VALUES ('2', 'tom@example.com');
+INSERT INTO usr VALUES ('3', 'jane@example.com');
+INSERT INTO usr VALUES ('4', 'andy@example.com');
+INSERT INTO usr VALUES ('5', 'dave@example.com');
+INSERT INTO usr VALUES ('6', 'dan@example.com');
+INSERT INTO usr VALUES ('7', 'clark@example.com');
+INSERT INTO usr VALUES ('8', 'vik@example.com');
+
+INSERT INTO post VALUES ('101', 'A new beginning', '1');
+INSERT INTO post VALUES ('102', 'Sample date', '1');
+INSERT INTO post VALUES ('103', 'Clear', '1');
+INSERT INTO post VALUES ('104', 'My life', '2');
+INSERT INTO post VALUES ('105', 'My love', '2');
+INSERT INTO post VALUES ('107', 'Unknown', '3');
+INSERT INTO post VALUES ('108', 'Serialization', '3');
+INSERT INTO post VALUES ('109', 'Clear code', '4');
+INSERT INTO post VALUES ('110', 'Algo', '4');
+INSERT INTO post VALUES ('111', 'Graph', '4');
+INSERT INTO post VALUES ('112', 'Null pointer', '4');
+INSERT INTO post VALUES ('113', 'Testing', '5');
+INSERT INTO post VALUES ('114', 'In the dark', '6');
+INSERT INTO post VALUES ('115', 'Blue', '6');
+INSERT INTO post VALUES ('116', 'Red', '7');
+INSERT INTO post VALUES ('117', 'Green', '7');
+INSERT INTO post VALUES ('118', 'Yellow', '8');
